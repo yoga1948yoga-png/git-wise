@@ -2,8 +2,8 @@
 
 **AI-powered Git workflow CLI** — generate commit messages, PR descriptions, changelogs, and code review summaries directly from your terminal, powered by OpenAI.
 
-[![npm version](https://badge.fury.io/js/git-wise.svg)](https://www.npmjs.com/package/git-wise)
-[![npm downloads](https://img.shields.io/npm/dm/git-wise.svg)](https://www.npmjs.com/package/git-wise)
+[![npm version](https://badge.fury.io/js/%40wutong2004%2Fgit-wise.svg)](https://www.npmjs.com/package/@wutong2004/git-wise)
+[![npm downloads](https://img.shields.io/npm/dm/%40wutong2004%2Fgit-wise.svg)](https://www.npmjs.com/package/@wutong2004/git-wise)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yoga1948yoga-png/git-wise?style=social)](https://github.com/yoga1948yoga-png/git-wise)
 
@@ -26,10 +26,10 @@ Writing good commit messages, PR descriptions, and changelogs takes time and men
 
 ```bash
 # Install globally
-npm install -g gitwise
+npm install -g @wutong2004/git-wise
 
 # Or run without installing
-npx gitwise <command>
+npx @wutong2004/git-wise <command>
 ```
 
 **Requirements:** Node.js ≥ 16, git installed
