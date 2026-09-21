@@ -2,8 +2,8 @@
 
 **AI-powered Git workflow CLI** — generate commit messages, PR descriptions, changelogs, and code review summaries directly from your terminal, powered by OpenAI.
 
-[![npm version](https://badge.fury.io/js/gitwise.svg)](https://www.npmjs.com/package/gitwise)
-[![npm downloads](https://img.shields.io/npm/dm/gitwise.svg)](https://www.npmjs.com/package/gitwise)
+[![npm version](https://badge.fury.io/js/git-wise.svg)](https://www.npmjs.com/package/git-wise)
+[![npm downloads](https://img.shields.io/npm/dm/git-wise.svg)](https://www.npmjs.com/package/git-wise)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yoga1948yoga-png/git-wise?style=social)](https://github.com/yoga1948yoga-png/git-wise)
 
