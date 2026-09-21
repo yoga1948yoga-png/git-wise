@@ -1,0 +1,51 @@
+{
+  "name": "gitwise",
+  "version": "0.1.0",
+  "description": "AI-powered Git workflow CLI: generate commit messages, PR descriptions, changelogs, and code reviews using OpenAI",
+  "main": "dist/cli.js",
+  "bin": {
+    "gitwise": "dist/cli.js"
+  },
+  "keywords": [
+    "git",
+    "ai",
+    "openai",
+    "commit",
+    "cli",
+    "gpt",
+    "conventional-commits",
+    "changelog",
+    "pull-request",
+    "code-review",
+    "developer-tools"
+  ],
+  "homepage": "https://github.com/yoga1948yoga-png/git-wise#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoga1948yoga-png/git-wise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yoga1948yoga-png/git-wise/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "start": "node dist/cli.js",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "inquirer": "^8.2.5",
+    "openai": "^4.0.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.6",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
