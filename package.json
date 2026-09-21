@@ -1,5 +1,5 @@
 {
-  "name": "git-wise",
+  "name": "@wutong2004/git-wise",
   "version": "0.1.0",
   "description": "AI-powered Git workflow CLI: generate commit messages, PR descriptions, changelogs, and code reviews using OpenAI",
   "main": "dist/cli.js",
